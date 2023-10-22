@@ -1,5 +1,7 @@
 ## Description
 
+Environnement de développement web (Apahce, PHP, MySQL) avec Docker.
+
 # Installation
 
 ```bash
